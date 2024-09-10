@@ -7,3 +7,6 @@ My experience with Python so far is quite alright. It's simple enough, consideri
 
 # September 9, 2024
 I gave up on graphics and I'm glad I did. Functions and lists are far more important if I get into a computer science career. Either way, I need to write something for my weekly journal grade. I finished functions and passed the test with 20 points out of 20 points. Hurray! Graphics held me back, but I'm flying through the units again.
+
+# September 10, 2024
+Today, I tried my darndest to fix my journal in GitHub. I wish to fight the grading bot.
