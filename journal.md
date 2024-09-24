@@ -14,3 +14,6 @@
 
 # September 11, 2024
   Following instructions exactly as they're given is extremely important in programing. Depending on thew programming language, neglecting to follow instructions could break your computer. It is important to be efficient, accurate, and use proper language. That goes for formal language, such as programming, **and** natural language, like what we use to speak.
+
+# September 24, 2024
+  I never used the Sphero Bolt robots or block code, so I will compare Python to Java, instead. Java feels more professional than Python, and according to my past teacher, Mr. Fenoglio, it has more capabilities than Python does. However, all the most practical abilities are in Python, so for many, there's no reason to learn Java. I learned Java first, and decided to learn Python because it is considered easier and less strict in how it's written.
