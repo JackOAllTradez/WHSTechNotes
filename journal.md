@@ -17,3 +17,6 @@
 
 # September 24, 2024
   I never used the Sphero Bolt robots or block code, so I will compare Python to Java, instead. Java feels more professional than Python, and according to my past teacher, Mr. Fenoglio, it has more capabilities than Python does. However, all the most practical abilities are in Python, so for many, there's no reason to learn Java. I learned Java first, and decided to learn Python because it is considered easier and less strict in how it's written.
+
+# October 4, 2024
+  Computer science is responsible for many things, such as my coping skills, my luck, and my daily torture, all of which happen to involve video games in some way, shape, or form. For example, when I play Project Sekai, my rate for drawing a good character card is crummy at best, but in Cookie Run Kingdom, my luck is significantly better. In fact, I drew one of the Ancient rarity cookies this morning in my 1st period. Naturally, all this gambling (I'm F2P I swear) is my coping mechanism. Without computer science, these games wouldn't exist.
