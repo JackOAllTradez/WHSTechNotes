@@ -23,3 +23,10 @@
 
 # October 7, 2024
 I researched Cybersecurity Analysts, which are the first line of defense against cyber crimes. They protect computer networks against cyberattacks and unathorized access, which keeps personal data safe. To be a cybersecurity analyst, you would need to know either JavaScrpt, Python, or C/C++. You don't need a specific education to get a job as a Cybersecurity Analyst, but majority of people in this field have a Bachelors degree. This job doesn't align with my goals in computer science because I don't want a computer science career. I'm only in this pathway because my mom wanted me to be like my brother.
+
+# October 15, 2024
+Coding improves problem solving skills because when programming, you often come across errors, which you will then need to troubleshoot. This applies to real life because you will frequently encounter unforseen issues in the workplace. For example, in economics, you can get rid of a recessionary gap by increasing government spending or decreasing taxes, but you could also do both. However, you might do a bit too much of one or the other and end up in an inflationary gap. Now you have a new, unforseen issue to solve.
+
+# October 21, 2024
+AI can be a very helpful tool, especially to programmers who don't have the time to write every single 'if' and 'for' by themselves. Thinks like ChatGPT can be useful for organizing thoughts, getting quick answers, and boosting creativity. However, they can also cause harm when they hack into private information, steal art, and give misinformation. This duality tends to confuse the public and makes them wonder if AI is good or bad, and they end up missing the big picture. AI is neither good nor bad, because the responsibility lies in the people who developed it. It's less about destroying AI to solve the problem, and more about improving it and adding some 'barriers' that it can't cross. AI shouldn't create art or write stories using the work of others, but it makes no sense why we should stop it as a whole when it also helps people gather their thoughts and work more efficiently.
+
