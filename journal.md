@@ -20,3 +20,6 @@
 
 # October 4, 2024
   Computer science is responsible for many things, such as my coping skills, my luck, and my daily torture, all of which happen to involve video games in some way, shape, or form. For example, when I play Project Sekai, my rate for drawing a good character card is crummy at best, but in Cookie Run Kingdom, my luck is significantly better. In fact, I drew one of the Ancient rarity cookies this morning in my 1st period. Naturally, all this gambling (I'm F2P I swear) is my coping mechanism. Without computer science, these games wouldn't exist.
+
+# October 7, 2024
+I researched Cybersecurity Analysts, which are the first line of defense against cyber crimes. They protect computer networks against cyberattacks and unathorized access, which keeps personal data safe. To be a cybersecurity analyst, you would need to know either JavaScrpt, Python, or C/C++. You don't need a specific education to get a job as a Cybersecurity Analyst, but majority of people in this field have a Bachelors degree. This job doesn't align with my goals in computer science because I don't want a computer science career. I'm only in this pathway because my mom wanted me to be like my brother.
