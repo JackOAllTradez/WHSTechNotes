@@ -32,3 +32,15 @@ AI can be a very helpful tool, especially to programmers who don't have the time
 
 # October 28, 2024
 Using technology in the election is both genius and idiotic. It can count votes quickly and accurately without making human mistakes, however, it can also be hacked or rigged by people both inside and outside whatever company owns the technology. People are biased, and that bias could show in the results without anyone realizing that it was planned from the start.
+
+# November 4, 2024
+Private information is private because with it, someone can steal your identity both online and in real life. As one might guess, this can ruin a person's life. That's why protecting private information is important. Never share anything online. Make sure you have a professional email and a private email, that way your professional email can be for official things like your bank account and your private email can be for less important things like youtube. This will keep all your private information on your professional email, which will only be used for things that need your information.
+
+# November 12, 2024
+I hate the world and cannot think of a single current event that interests me. People suck and we've ruined our own world with our foolish politics, wars, and desire for larger cities. The most interesting current event is the election, but no sane person would share their thoughts on it.
+
+# November 18, 2024
+Technology is responsible for pretty much everything humanity has. Our homes, our jobs, and our food revolve around it. Our food would be ugly and unappetizing if it weren't for technology. Science was used to make it brighter, tastier, and more nutrient-packed.
+
+# December 2, 2024
+Artifical Intelliegence (AI) is a very useful tool for those who are responsible enough to utilize it properly.
