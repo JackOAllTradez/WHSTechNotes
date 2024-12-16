@@ -47,3 +47,6 @@ Artifical Intelliegence (AI) is a very useful tool for those who are responsible
 
 # December 9, 2024
 Brain rot is a term I use frequently, both ironically and unironically. Sometimes, it's negative, like when someone hyperfocuses on a screen rather than the content shown on said screen. Other times, it's significantly more positive, referring to a specific topic that someone enjoys and could talk about for hours and hours. For me, it's clowns, but for others, it's a specific sound, such as sheet metal, or a unique animal, such as the platypus. This is positive because interesting subjects and sounds can bring people together. One of my closest friends is my friend because we both love clowns, and it happens to be a fun fact my teachers never forget, even after I leave their class. Lore is another term I use frequently, most often when referring to games with deep storylines or hidden easter eggs, such as Skyrim, Cookie Run Kingdom, or Genshin Impact. 
+
+# December 16, 2024
+Yes, I am. I successfully convinced my mother to let me sleep in on at least two of the days, and even clarified that I mean "until 2PM", not "until 9AM". I've had a roommate for the past week, and as much as I adore him, I need him and his family to leave so I can relax.
