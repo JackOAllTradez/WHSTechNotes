@@ -50,3 +50,6 @@ Brain rot is a term I use frequently, both ironically and unironically. Sometime
 
 # December 16, 2024
 Yes, I am. I successfully convinced my mother to let me sleep in on at least two of the days, and even clarified that I mean "until 2PM", not "until 9AM". I've had a roommate for the past week, and as much as I adore him, I need him and his family to leave so I can relax.
+
+# January 8, 2025
+Last semester was... Messy. I had to hide in the back, most frequently with the lights off, so I could properly shut out all the outside racket. I already have minimal motivation to work, but the other folks don't help. How can someone have that strong of an aversion to effort? This semester, I would like to expand on the "hiding" part. can I pitch a tent in the office? I'm joking, of course. I just want to complete my portfolio and do certifications for Python and Java.
