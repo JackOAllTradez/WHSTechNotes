@@ -53,3 +53,10 @@ Yes, I am. I successfully convinced my mother to let me sleep in on at least two
 
 # January 8, 2025
 Last semester was... Messy. I had to hide in the back, most frequently with the lights off, so I could properly shut out all the outside racket. I already have minimal motivation to work, but the other folks don't help. How can someone have that strong of an aversion to effort? This semester, I would like to expand on the "hiding" part. can I pitch a tent in the office? I'm joking, of course. I just want to complete my portfolio and do certifications for Python and Java.
+
+# January 13, 2025
+I believe that, while AI can be helpful, it does far more harm than good. AI may enhance careers, but it steals them much more frequently. Artists make their money through commissions, but why would someone commission an artist for $50 when they can put what they want into an AI generator and ask it to copy that artist's style... for free. AI never should've been used in the workforce, and it should be stopped before it gets used more.
+
+# January 22, 2025
+TikTok was an adictive app in the US, used by nearly every US citizen under the age of 40. This alone is problematic because, like in most programs, it can spread hatred and misinformation. Naturally, anything owned by a company in a communist country can't be trusted, no matter how close our leaders are. Although, there's something to be said about contracts.
+When signing up for anything, it gives you two articles: Terms & Conditions and Privacy Policy. If I were a TikTok developer, I would do what many games do and force the user to at least scroll through the long list of rights before accepting them. Simply tapping it and accepting isn't enough. 
