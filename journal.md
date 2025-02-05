@@ -60,3 +60,13 @@ I believe that, while AI can be helpful, it does far more harm than good. AI may
 # January 22, 2025
 TikTok was an adictive app in the US, used by nearly every US citizen under the age of 40. This alone is problematic because, like in most programs, it can spread hatred and misinformation. Naturally, anything owned by a company in a communist country can't be trusted, no matter how close our leaders are. Although, there's something to be said about contracts.
 When signing up for anything, it gives you two articles: Terms & Conditions and Privacy Policy. If I were a TikTok developer, I would do what many games do and force the user to at least scroll through the long list of rights before accepting them. Simply tapping it and accepting isn't enough. 
+
+# January 27, 2025
+| name     | car             | mistake                  |
+|----------|-----------------|--------------------------|
+| Jimmy    | Honda Civic     | Drilled Hole in Gas Tank |
+| Kayla    | GMC Sierra      | Fixed Wrong Problem      |
+| Bart     | Toyota Corolla  | Left Stains on Carpet    |
+| Harrison | Subaru Forester | Left the Oil Cap Off     |
+
+# February 3, 2025
