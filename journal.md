@@ -83,9 +83,9 @@ The RCS of both vehicles was already quite large due to how important they were,
 | Octagon   | Red               | 3                      |
 
 # February 18, 2025
-
+The most interesting thing I learned last week was that Wolverine has nicknames for all his friends. I learned it from my friend, Zee, who loves Marvel. I found it interesting because I don't know anything about superheroes, and I had always thought that Wolverine was gruff and serious, not silly enough to have goofy nicknames for everyone he knows.
 
 # February 24, 2025
-
+Technology can be used by teachers, councelors, and social workers to organize slang by connotations and define it. They could have students write the definitions for slang terms, that way their knowledge of the term is based on the definition used by students rather than the one in the urban dictionary. A potential difficulty of using slang into online resources is the highly likely scenarion in which too much slang is used. This is bad for two reasons: it's cringe and it makes no sense, even to the younger generations. Slang is best left informal because it was originally brought into society to help a younger generation understand itself. It is designed to block out other generations and create a generation's culture without too much outside influence.
 
 # March 3, 2025
