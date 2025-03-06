@@ -72,3 +72,20 @@ When signing up for anything, it gives you two articles: Terms & Conditions and 
 # February 3, 2025
 America has had many accidents in the aviation fields, from major national disasters to tragic accidents that have claimed many lives. Some are caused by hijacking, while others are caused by pilot or system errors. In the tragic accident that claimed 67 lives on January 29th, a jet and a helicopter collided. This was not a system error, it was a human one.
 The RCS of both vehicles was already quite large due to how important they were, so the pilots should have been able to realize they were approaching each other. The only way technology could have helped is if an alarm was set for when a flying vehicle got too close to another. Maybe then, the pilots would have looked and steered away. One could also expand the RCS so that pilots are informed sooner.
+
+# February 11, 2025
+| shape     | color             | count                  |
+|-----------|-------------------|------------------------|
+| Circle    | Green             | 7                      |
+| Square    | Yellow            | 5                      |
+| Hexagon   | Brown             | 6                      |
+| Triangle  | Purple            | 4                      |
+| Octagon   | Red               | 3                      |
+
+# February 18, 2025
+
+
+# February 24, 2025
+
+
+# March 3, 2025
