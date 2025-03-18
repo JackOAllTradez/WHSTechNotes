@@ -96,3 +96,6 @@ Technology can be used by teachers, councelors, and social workers to organize s
 | Thorne   | Invisibility         | Underwater Rescue      |
 | Silver   | Mind Control         | Secure Stolen Goods    |
 | Tangier  | Shapeshifting        | Extract Prisoner       |
+
+# March 17, 2025
+Over spring break, I played a lot of games, such as Cookie Run Kingdom (Where I "identify cookies", lol) and Project Sekai (Which goes tappy tappy). These games kept me entertained when I wasn't reading or eating, which boosted my serotonin and stress levels simultaneously. These games are carefully developed by programmers on the other side of the world to pump out event after event, keeping things coming so we don't get bored after each one.
