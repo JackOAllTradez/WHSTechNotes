@@ -111,3 +111,16 @@ I don't think AI should be used in our learning. Austin can do it because they'r
 
 # April 14, 2025
 Banning social media use can be very beneficial in most situations, but it's not worth the risk if that's a student's only way to contact emergency contacts. When I was younger, I was in that situation. I didn't have cell service and couldn't call or text my mother in case of emergencies, which with me could be anything. Illness, bullying, that time of the month... My only way to contact my mom was Instagram. If social media couldn't be accessed via my only wi-fi connection, I was alone and struggling. I know I'm not the only person who was ever stuck in those situations, and I'm sure there are many to this day who only have their mom or dad's social media account. Banning phone use is even worse, and shouldn't even be considered.
+
+# April 28, 2025
+| Client  | Flavor    | Occasion       | Price  |
+|---------|-----------|----------------|--------|
+| Sally   | Chocolate | Graduation     | $35.00 |
+| Michael | Vanilla   | Farewell Party | $37.00 |
+| Emma    | Carrot    | Birthday       | $39.00 |
+
+# May 5, 2025
+Whether or not 100 humans can win against a silverback gorilla depend entirely on the battlefeild, the age of the gorilla, the hostility levels of the gorilla, and the kinds of humans who are fighting. One fully-grown gorilla can lift and throw items up to 1800lbs in weight, which is easily enough to destroy a group of humans. Additionally, a fully-grown gorilla has enough upper body strength to rival 10 humans, which would make even ganging up on a gorilla tough. Only so many people can tackle a gorilla at once, and it just isn't enough. Defeat is guaranteed.
+
+# May 12, 2025
+When it comes to things such as destruction of property resulting in people being exposed to harm, there isn't much that can be done. If someone makes their chromebook spark and catch aflame, all you can do is get them and anyone else away from the fiery device and punish them for destruction of school property. This goes for the real world too, since you can only punish someone for something after it's been done.
