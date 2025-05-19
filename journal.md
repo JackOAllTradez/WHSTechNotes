@@ -124,3 +124,6 @@ Whether or not 100 humans can win against a silverback gorilla depend entirely o
 
 # May 12, 2025
 When it comes to things such as destruction of property resulting in people being exposed to harm, there isn't much that can be done. If someone makes their chromebook spark and catch aflame, all you can do is get them and anyone else away from the fiery device and punish them for destruction of school property. This goes for the real world too, since you can only punish someone for something after it's been done.
+
+# May 19, 2025
+I can't wait for summer vacation. I want to reapply for UTSA and Rice (since I missed a few deadlines and might not make it to the fall semester), and get my ID so I can go out and do adult stuff, like drive and go to Spencer's. I'd also like to stay home at all times, finally. I hate leaving the house, even for school.
